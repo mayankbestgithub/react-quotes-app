@@ -1,0 +1,40 @@
+#quote-box {
+
+    width: 600px;
+    height: 300px;
+    min-width: 450px;
+    min-height: 300px;
+    border-radius: 2px;
+    background-color: #ffffff;
+    padding: 25px;
+    margin: auto;
+}
+
+#text {
+    font-size: 1.75rem;
+    line-height: 1.65rem;
+}
+
+h2 {
+    text-align: right;
+}
+
+#author {
+    text-align: right;
+}
+
+#new-quote {
+    width: 100%;
+    padding: 10px 20px;
+    text-align: right;
+    margin-top: 5px;
+
+}
+
+#tweet-quote {
+    display: block;
+    width: 20px;
+    height: 20px;
+    border: 1px solid #000;
+    text-align: left;
+}
